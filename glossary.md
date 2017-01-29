@@ -1,28 +1,28 @@
-# ÊõÓï±í
+# æœ¯è¯­è¡¨
 
-| Ó¢ÎÄ | ÖĞÎÄ |
+| è‹±æ–‡ | ä¸­æ–‡ |
 | --- | --- |
-| Annotation | ±ê×¢ |
-| Artist | ÒÕÊõ¼Ò |
-| Axes | ÖáÓò |
-| Axis | Öá/×ø±êÖá |
-| B¨¦zier | ±´Èû¶û |
-| Coordinate | ×ø±ê |
-| Coordinate System | ×ø±êÏµ |
-| Figure | Í¼ĞÎ |
-| Handle | ¾ä±ú |
-| Handler | ´¦ÀíÆ÷ |
-| Image | Í¼Ïñ |
-| Legend | Í¼Àı |
-| Line | ÏßÌõ |
-| Patch | ²¹¶¡ |
-| Path | Â·¾¶ |
-| Pick | Ê°È¡ |
-| Subplot | ×ÓÍ¼ |
-| Text | ÎÄ±¾ |
-| Tick | ¿Ì¶È |
-| Tick Label | ¿Ì¶È±êÇ© |
-| Transformation | ±ä»» |
+| Annotation | æ ‡æ³¨ |
+| Artist | è‰ºæœ¯å®¶ |
+| Axes | è½´åŸŸ |
+| Axis | è½´/åæ ‡è½´ |
+| BÃ©zier | è´å¡å°” |
+| Coordinate | åæ ‡ |
+| Coordinate System | åæ ‡ç³» |
+| Figure | å›¾å½¢ |
+| Handle | å¥æŸ„ |
+| Handler | å¤„ç†å™¨ |
+| Image | å›¾åƒ |
+| Legend | å›¾ä¾‹ |
+| Line | çº¿æ¡ |
+| Patch | è¡¥ä¸ |
+| Path | è·¯å¾„ |
+| Pick | æ‹¾å– |
+| Subplot | å­å›¾ |
+| Text | æ–‡æœ¬ |
+| Tick | åˆ»åº¦ |
+| Tick Label | åˆ»åº¦æ ‡ç­¾ |
+| Transformation | å˜æ¢ |
 
 
 
