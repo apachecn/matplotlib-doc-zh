@@ -6,7 +6,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/matplotlib-user-guide/details)
++ [在线阅读](https://mpl.apachecn.org)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/matplotlib-user-guide)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/matplotlib-user-guide)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/matplotlib-user-guide)
